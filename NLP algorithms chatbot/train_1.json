@@ -1,0 +1,107 @@
+{ "intents":[
+	{"tag": "mano_tvarkarastis",
+	"uzklausos": [ "kur galiu rasti savo tvarkarasti", "kur yra mano tvarkarastis", "kur mano paskaitu tvarkarastis",  "kur galiu perziureti tvarkarasti", "kur galiu perziureti savo tvarkarasti", "kur mano tvarkarastis", "kokios siandien paskaitos", "koks yra paskaitu tvarkarastis", "koks siandien tvarkarastis", "koks yra sio semestro tvarkarastis", "kur rasti sio semestro tvarkarasti",  "kaip suzinoti savo tvarkarasti"],
+	"atsakymas": ["Savo tvarkaraščius galite rasti prisijungę prie mano.vgtu.lt svetainės „Pradžia“ puslapyje, o pilną savo tvarkaraštį galite rasti „Pradžia“ puslapyje „Mano tvarkaraštis“ kortelėje paspaudę „Visas paskaitų tvarkaraštis“ arba nuėję į „Studijos > Paskaitų tvarkaraščiai“ skiltį ir pasirinkę „Mano šio semestro“ kortelę (adresu https://mano.vgtu.lt/timetable/site/search-form)"]
+	},
+    {"tag": "vgtu_naujenos",
+    "uzklausos": ["kas naujo ivyko universitete", "noriu paziureti universiteto naujenas", "kas vyksta universitete", "ar yra kas nors naujo universitete", "kur galiu rasti vgtu naujienas", "ar yra rodomos vgtu naujienos", "kur randasi naujienos apie studijas", "kur galiu pamatyti naujienas susijusias su vgtu", "ar yra svetaineje vgtu naujenos", "kaip suzinoti vgtu naujenas", "kas vyksta universitete", "kokios yra naujienos"],
+    "atsakymas": ["Naujienas galite rasti mano.vgtu.lt svetainės „Pradžia“ puslapyje, tik prisijungus iškart po tvarkaraščiais (adresu https://vilniustech.lt/vgtu-naujienu-portalas/naujienos/246059)"]
+    },
+    {"tag": "studiju_kalendorius",
+    "uzklausos": ["kur yra studiju kalendorius", "kur galiu rasti siu metu studiju kalendoriu", "kur galima rasti studiju kalendoriu", "kaip galiu pamatyti studiju kalendoriu", "kas yra studiju kalendorius", "kokia informacija rasiu studiju kalendoriuje", "koks yra siu metu studiju kalendorius", "kada prasideda atostogas pagal siu metu studiju kalendoriu", "kada vyksta perlaikymai", "kada prasideda perlaikymu savaite", "kada prasideda sesija pagal studiju kalendoriu", "kada prasideda savarankisku studiju savaite"],
+    "atsakymas": ["Studijų kalendorių galite rasti vilniustech.lt svetainės „Studentams > Studijų kalendorius“ skiltyje (adresu https://vilniustech.lt/studentams/studiju-kalendorius/26685?lang=1)"]
+    },
+	{"tag": "grupes_tvarkarastis",
+	"uzklausos": ["kur galiu rasti grupes tvarkarasti", "kur galiu rasti mano grupes tvarkarasti", "kur galiu paziureti grupiu tvarkarascius", "kur galiu paziureti mano grupes tvarkarasti", "kur yra grupiu tvarkarasciai", "kaip rasti grupiu tvarkarascius", "kaip rasti mano grupes tvarkarasti","kaip rasti savo grupes tvarkarasti", "noriu paziureti savo grupes tvarkarasti", "kur galiu rasti savo grupes tvarkarasti", "kaip rasti mano grupes tvarkarasti", "kur yra mano grupes tvarkarastis"],
+	"atsakymas": ["Grupių tvarkaraščius galite rasti prisijungę prie mano.vgtu.lt svetainės „Pradžia“ puslapyje „Mano tvarkaraštis“ kortelėje paspaudę „Visas paskaitų tvarkaraštis“, arba nuėję į „Studijos > Paskaitų tvarkaraščiai“ skiltį ir pasirinkę „Grupės“ kortelę (adresu https://mano.vgtu.lt/timetable/site/search-form)"]
+	},
+	{"tag": "studiju_programa",
+	"uzklausos": ["kur paziureti studiju dalykus", "kur yra programos dalyku sarasas", "kur rasti studiju programos dalyku sarasa", "kur rasti studiju dalyku programa", "kur suzinoti studiju programa", "kokia yra studiju dalyku programa", "kur surasti programos dalyku sarasa", "ar yra studiju dalyku sarasas", "kaip surasti studiju dalyku programa", "kokia yra studiju programa", "kur perskaityti apie studiju programa", "kur yra programos dalyku sarasas"],
+	"atsakymas": ["Savo studijuojamos programos aprašą galite rasti prisijungę prie mano.vgtu.lt svetainės „Studijos > Visa studijų programa“ skiltyje (adresu https://mano.vgtu.lt/program/site)"]
+	},
+    {"tag": "mano_rezultatai",
+    "uzklausos": ["kur galiu palyginti savo rezultatus su grupiokais", "noriu palyginti savo rezultatus su grupe", "noriu pamatyti savo sio semestro rezultatus", "kur galiu pamatyti savo sio semestro ivertinimus", "kur randasi tarpiniai sio semestro ivertinimai", "kur yra rasomi mano sio semestro ivertinimai", "kur galiu rasti savo tarpinius ivertinimus", "kur randasi tarpiniai rezultatai", "kur galiu pamatyti savo semestro rezultatus", "noriu pamatyti savo ivertinimus", "kur galiu rasti mano sio semestro rezultatus", "noriu palyginti savo rezultatus su grupe"],
+    "atsakymas": ["Visus savo rezultatus rasti ir palyginti galite prisijungę prie mano.vgtu.lt svetainės „Studijos > Mano rezultatai“ skiltyje (adresu https://mano.vgtu.lt/results/site)"]
+    },
+    {"tag": "stipendiju_ismoka",
+    "uzklausos": ["kur rasti ismoketas stipendijas", "kokios yra stipendiju ismokos", "kokio dydzio stipendija gaunu", "noriu zinoti kokias stipendijas gaunu", "kokia sio menesio stipendija", "kokia stipendija gavau", "kokia siuo menesio stipendijos ismoka", "kur rasiu stipendiju ismoku sarasa", "kada israsomos stipendijos", "kur rasti israsyta stipendija", "kokio dydzio gautas stipendijos israsas", "kada ismokama stipendija"],
+    "atsakymas": ["Informaciją apie jums išmokėtas stipendijas galite rasti prisijungę prie mano.vgtu.lt svetainės „Mano dokumentai > Stipendijų išmokos“ skiltyje (adresu https://mano.vgtu.lt/documentation/documentation/scholarship)"]
+    },
+    {"tag": "stipendiju_salygos",
+    "uzklausos": ["kokios yra stipendiju skyrimo salygos", "kada skyriama stipendija", "noriu suzinoti apie stipendiju skyrimo salygas", "kur galiu rasti stipendiju skyrimo salygas", "noriu rasti stipendiju salygas", "kaip rasti informacijos apie stipendiju skyrimo salygas", "kokiomis salygomis galiu gauti stipendija", "stipendijos gavimo salygos", "kada gaunama stipendija", "kokiais atvejais galima gauti stipendija", "kokiu atveju gaunama stipendija", "kokiais atvejeis studentui skyriama stupendija"],
+    "atsakymas": ["Apie stipendijas galite sužinoti prisijungę prie mano.vgtu.lt svetainės „Studijų tvarka > Stipendijos“ skiltyje ir vsf.lrv.lt svetainės „Titulinis > Studentams“ skiltyje (adresu https://vsf.lrv.lt/lt/studentams). VGTU studentai turi 1)būti išlaikę visus galutinius atsiskaitymus per pirmus laikymus; 2)neturėti skolų; 3)surinkti pakankamai aukštą svertinį vidurkį (žr. „Mano rezultatai“, tiksli riba nežinoma, bet manoma ~9.2)"]
+    },
+    {"tag": "egzaminai",
+    "uzklausos": ["noriu zinoti apie egzaminus", "kur yra mano egzaminai", "kur galiu pamatyti savo egzaminus", "kur paziureti egzaminu laikus", "kaip suzinoti egzamino laika", "kur egzaminu datos", "kada egzaminu pradzia", "koks yra egzaminu tvarkarastis", "kur rasti egzaminu tvarkarasti", "kur galiu pamatyti savo egzaminu tvarkarasti", "kur yra egzaminu tvarkarastis", "kur galiu suzinoti apie egzaminus"],
+    "atsakymas": ["Informaciją apie jūsų egzaminus galite rasti prisijungę prie mano.vgtu.lt svetainės „Studijos > Egzaminų tvarkaraštis“ skiltyje (adresu https://mano.vgtu.lt/examstimetable/exams), arba „Studijos > Šis semestras“ skiltyje pasirinkę semestro dalyką ir „Paskaitų tvarkaraštis“ kortelę"]
+    },
+    {"tag": "kontaktai",
+    "uzklausos": ["kur galiu rasti destytoju kontaktus", "kur rasti personalo kontaktus", "kur yra katedros kontaktai", "kur galiu rasti fakulteto kontaktus", "kur rasti kontaktus", "ar yra vgtu svetaineje kontaktai", "kur yra kontaktai", "kur rasti darbuotoju kontaktus", "ar yra svetaineje personalo kontaktai", "ar yra svetaineje darbuotoju kontaktai", "ar yra svetaineje destytoju kontaktai", "kaip susisiekti su vgtu darbuotojais"],
+    "atsakymas": ["Dėstytojų ir katedros/skyriaus kontaktus galite rasti prisijungę prie mano.vgtu.lt svetainės „Studijos > Šis semestras“ skiltyje pasirinkę semestro dalyką ir „Kontaktai“ kortelę. Taip pat visus kontaktus galite rasti mano.vgtu.lt svetainės „Gyvenimas VGTU > Kontaktai > VGTU kontaktai“ skiltyje arba vilniustech.lt svetainės „Kontaktai“ skiltyje, esančioje svetainės apačioje (adresu https://vilniustech.lt/kontaktai/-pagrindiniai-kontaktai/519)"]
+    },
+    {"tag": "prasymai",
+    "uzklausos": ["kur galiu pateikti prasymus", "kur galima pateikti ivairius prasymus", "kur galeciau pateikti prasyma del", "kur galiu rasti pateiktu prasymu busenas", "kaip rasti vgtu prasymus", "kaip pildyti prasymus", "kur prasimu sablonai", "ar yra svetaineje prasymu sablonai", "kaip parasyti prasyma", "kur rasti prasymu sablonus", "kaip uzpildyti prasyma", "kaip pildomi prasymai rektoriui"],
+    "atsakymas": ["Prašymų formas galite rasti, užpildyti ir pateikti, bei prašymų būsenas stabėti prisijungę prie mano.vgtu.lt svetainės „Mano dokumentai > Prašymai“ skiltyje (adresu https://mano.vgtu.lt/requests/site), taip pat prašymų blankus galite rasti „Mano dokumentai > Kita“ skiltyje (adresu https://mano.vgtu.lt/requests/other)"]
+    },
+    {"tag": "zemelapis",
+    "uzklausos": ["kur vgtu zemelapis",  "kur rasti zemelapi", "nerandu zemelapiu", "kur vgtu svetaineje rasti zemelapius", "zemelapis vgtu svetaineje", "kaip rasti srk-i", "kur randasi srl-ii", "kaip patekti i src", "kur rasti srk-ii auditorija", "kur sra-ii auditorija", "kur yra auditoriju zemelapis", "kaip rasti auditorija"],
+    "atsakymas": ["VGTU žemėlapį galite rasti prisijungę prie mano.vgtu.lt svetainės „Gyvenimas VGTU > VGTU žemėlapiai“ skiltyje arba https://mano.vgtu.lt/vgtulife/maps"]
+    },
+    {"tag": "sio_semestro_dalykai",
+    "uzklausos": ["kur rasti sio semestro studiju programa", "kur yra sio semestro dalyku sarasas", "kur rasti sio semestro dalyku sarasa", "kokie dalykai siame semestre", "kiek siame semestre dalyku", "sio semestro dalyku sarasas", "kokia yra sio semestro programa", "kokios paskaitos siame semestre", "kur rasti sio semestro dalykus", "kokie semestro dalykai", "kur pamatyti dalyku sarasa", "noriu suzinoti sio semestro dalykus"],
+    "atsakymas": ["Šio semestro dalykus rasite „Studijos > Šis semestras > Studijų programa“ skiltyje arba https://mano.vgtu.lt/thissemester/site/loadindex"]
+    },
+    {"tag": "visa_studiju_programa",
+    "uzklausos": ["kur rasti studiju dalyku sarasa", "kur rasti pilna studiju dalyku programa", "koks studiju dalyku sarasas", "kokia yra bendra studiju dalyku programa", "kur surasti dalyku sarasa", "kur paziureti studiju dalyku sarasa", "kaip surasti studiju dalyku programa", "kur rasti bendra studiju programa", "kaip surasti pilna studiju programa", "noriu suzinoti studiju programa", "negaliu rasti visos studiju programos", "kur randasi visa studiju programa"],
+    "atsakymas": ["Visą studojų programą rasite „Studijos > Šis semestras > Studijų programa“ skiltyje arba https://mano.vgtu.lt/thissemester/site/loadindex"]
+    },
+    {"tag": "darbas",
+    "uzklausos": ["kur gali isidarbinti studentas", "vgtu idarbinimo pasiulymai", "vgtu karjera studentams", "ar vgtu yra darbo pasiulymai", "ar galima isidarbinti per vgtu", "ar galima rasti darba", "kokios karjeros galimybes siulo vgtu", "kokios studento karjeros galimybes", "kur rasti darbo skelbimus", "kokie yra darbo skelbimai", "kur perziureti darbo skelbimus studentams", "kur isidarbinti studentui"],
+    "atsakymas": ["Darbo pasiūlimus rasite „Mano karjera > Darbo pasiūlymai“ skiltyje arba https://mano.vgtu.lt/mycareer/jobs"]
+    },
+    {"tag": "praktika",
+    "uzklausos": ["kur galima rasti praktika", "kokia praktika siulo vgtu", "ar vgtu yra praktikos pasiulymai", "ar galima rasti praktika per vgtu", "kur yra galimybe atlikti praktika", "kur rasti praktikos pasiulimus", "kur atlikti praktika", "kur vgtu siulo atlikti praktika", "kokios yra praktikos galimybes studentams", "kokios imones siula atlikti praktika", "kokie yra praktikos siulymai sio metu", "praktikos siulymas vgtu"],
+    "atsakymas": ["Praktikos pasiūlymus rasite „Mano karjera > Praktikos pasiūlymai“ skiltyje arba https://mano.vgtu.lt/mycareer/practices"]
+    },
+    {"tag": "paskaitu_laikas",
+    "uzklausos": ["kada prasideda pietu pertrauka", "kelinta valanda pirma paskaita", "kada prasideda antra paskaita", "kelinta valanda trecia paskaita", "kada prasideda pertrauka", "kelinta valanda prasideda penkta paskaita", "kelinta valanda prasideda sesta paskaita", "kada pietu pertrauka", "kiek laiko trunka paskaitos", "kiek laiko trunka pietu pertrauka", "kiek laiko trunka ilgiausia pertrauka", "koks pertrauku ilgis"],
+    "atsakymas": ["Paskaitų laiką rasute „Mano karjera > Darbo pasiūlymai“ skiltyje arba https://mano.vgtu.lt/studyprocess/lectures"]
+    },
+    {"tag": "atsiskaitynu_tvarka",
+    "uzklausos": ["kaip vyksta atsiskaitymai", "kokia yra atsiskaitymu tvarka", "kaip organizuojami tarpiniai atsiskaitymai", "kokia tvarka vyksta atsiskaitymai", "kokia atsiskaitymo tvarka uz darbus", "kaip organizuojami atsiskaitymai uz darbus", "kaip atsiskaitoma uz darbus", "kokia atsiskaitymu vertinimo tvarka", "kur rasti darbu atsiskaitymo tvarka", "kaip vertinami rasto darbai", "kokia rasto darbu vertinimo tvarka", "kaip atsiskaitoma uz rasto darbus"],
+    "atsakymas": ["Apie atsiskaitymus daugiau sužinosite „Studijų tvarka > Atsiskaitymai už kontrolinius, kursinius darbus“ skiltyje arba https://mano.vgtu.lt/studyprocess/settlements"]
+    },
+    {"tag": "sesijos_tvarka",
+    "uzklausos": ["kaip organizuojama sesija", "koks sesijos tvarkarastis", "kada prasideda rudens sesija", "kada pasibaigia sesija", "kada sesijos pradzia", "kas yra sesijos tvarka", "kas sudaro sesijos tvarkarasti", "kaip suzinoti sesijos tvarkarasti", "kur suzinoti apie sesijos tvarka", "kokia sesijos tvarka", "kaip vyksta sesija", "kaip sudaromas sesijos tvarkarastis"],
+    "atsakymas": ["Daugiau informacijos apie sesijas bei gautinius atsiskaitimus rasite „Studijų tvarka > Sesija“ skiltyje arba https://mano.vgtu.lt/studyprocess/session"]
+    },
+    {"tag": "darbu_reikalavimai",
+    "uzklausos": ["kokie darbu rengimo reikalavimai", "kur rasti reikalavimus gynimui", "kokie reikalavimai rasto darbams", "kur rasti baigiamojo darbo gynimo tvarka", "kaip vyksta darbu gynimas", "kur surasti reikalavimus darbams", "kokie yra gynimo reikalavimai", "kokie reikalavimai baigiamajam darbui", "kokie yra magistro rengimo reikalavimai", "kokie baigiamojo darbo rengimo reikalavimai", "kokie rasto darbu rengimo reikalavimai", "kaip rengiamas bakalauro darbas"],
+    "atsakymas": ["Rašto darbų reikalavimus rasite „Studijų tvarka > rašto darbų reikalavimai“ skiltyje arba https://mano.vgtu.lt/studyprocess/workreq"]
+    },
+    {"tag": "sablonas",
+    "uzklausos": ["kaip atrodo baigiamojo darbo prezentacija anglu kalba", "kaip atrodo baigiamojo magistro prezentacija anglu kalba", "kaip atrodo darbo prezentacija lietuviu kalba", "kur rasti prezentaciju sablonus", "kur yra vgtu prezentacijos sablonai", "ar vgtu turi darbo prezentacijos sablonu", "ar yra darbo prezentacijos sablonai", "ar vgtu turi prezentacijos sablona lietuviu kalba", "kur rasti darbo pristatymo sablona anglu kalba", "kaip rasti prezentaciju sablona lietuviu kalba", "kur yra vgtu prezentaciju sablonai", "kaip turi atrodyti darbo prezentacija"],
+    "atsakymas": ["Šablonus rasite „Studijų tvarka > rašto darbų reikalavimai“ skiltyje arba https://mano.vgtu.lt/studyprocess/workreq"]
+    },
+    {"tag": "ivertinimo_tvarka",
+    "uzklausos": ["kokia vgtu darbu vertinimo tvarka", "kaip ivertinami darbai", "kokia darbu ivertinimo skale", "kokia yra vertinimo skale", "kokia vgtu naudojama darbu vertinimo skale", "kur rasti darbu vertinimo tvarka", "kokia yra darbu ivertinimo tvarka", "kada dalykas neislaikytas", "kada dalykas yra islaikytas", "koks islaikymo ivertinimas", "koks neislaikymo ivertinimas", "kokie neislaikymo kriterijai"],
+    "atsakymas": ["Informaciją apie įvertinimus rasite „Studijų tvarka > Įvertinimai“ skiltyje arba https://mano.vgtu.lt/studyprocess/reviews"]
+    },
+    {"tag": "apeliacijos",
+    "uzklausos": ["del kokiu priezasciu galiu teikti apeliacija", "kokia yra apeliaciju tvarka", "kur rasti apeliaciju pateikimo tvarka", "ar galima pateikti apeliacija", "ar galima apeliuoti del teigiamo rezultato", "ar galima apeliuoti jei buvo vertinimo tvarkos pazeidimas", "kada rasyti apeliacija", "kokiais atvejais rasoma apeliacija", "ar studentas gali parasyti apeliacija", "kokios gali buti apeliacijos priezastys", "kada verta apeliuoti", "kada yra prasme apeliuoti"],
+    "atsakymas": ["Visą informacija apie apeliacijas rasite „Studijų tvarja > Apeliacijos“ skiltyje arba https://mano.vgtu.lt/studyprocess/appeals"]
+    },
+    {"tag": "baigiamieji_darbai_tvarka",
+    "uzklausos": ["kokia magistro darbo tvarka", "kokia yra baigiamuju atsiskaitymo tvarka", "kokia bendra baigiamuju darbu atsiskaitymo tvarka", "kur rasti magistro darbo tvarka", "kur yra informacija del atsiskaitymo tvarkos uz baigiamaji darba", "kur suzinoti baigiamuju darbu tvarka", "kur suzinoti magistro darbo tvarka", "ka reikia zinoti apie baigiamuosius darbus", "kur pildoma baigiamojo darbo saziningumo deklaracija", "kur rasti baigiamojo darbo saziningumo deklaracija", "kur rasti bakalauro darbo saziningumo deklaracija", "kada pildoma saziningumo deklaracija"],
+    "atsakymas": ["Informaciją apie baigiamuosius darbuis rasite „Studijų tvarja > Baigiamieji darbai“ skiltyje arba https://mano.vgtu.lt/studyprocess/finals"]
+    },
+    {"tag": "spausdinimo_paslaugos",
+    "uzklausos": ["ar yra universitete yra spausdinimo paslaugos", "ar yra vgtu teikia spausdinimo paslaugas", "kur vgtu galima atspausdinti dokumenta", "kur galima pasinaudoti spausdinimo paslaugomis", "kur vgtu galima spausdinti", "kur galima atspausdinti darba", "ar galima vgtu atspausdinti dokumenta","kur galima gauti spausdinimo paslaugas", "ar yra vgtu spausdinimo paslaugu teikimas", "kur rasti spausdinimo paslaugas", "kur vgtu spausdinami darbai", "noriu atspausdinti dokumenta"],
+    "atsakymas": ["Informaciją apie spausdinimą rasi čia: https://www.vgtu.lt/informaciniu-technologiju-ir-sistemu-centras/it-paslaugos-vgtu-bendruomenei/spausdinimo-paslauga/308096"]
+    },
+    {"tag": "spausdinimo_kaina",
+    "uzklausos": ["kiek kainuoja darbo spausdinimas", "kiek kainuoja dokumento spausdinimas", "kiek kainuoja spausdinimo paslaugos", "kiek kainuoja vieno puslapio spausdinimas", "kiek kainuoja vieno lapo spausdinimas", "kokia spalvoto spausdinimo kaina", "kokia nespalvoto spausdinimo kaina", "kiek kainuoja 5 puslapiu spausdinimas", "kiek kainuoja 10 spalvotu puslapiu spausdinimas", "kokios yra spausdinimo kainos", "kokia a4 formato spausdinimo kaina", "kokia kaina a3 labo spausdinimo"],
+    "atsakymas": ["Informaciją apie spausdinimą rasi čia: https://www.vgtu.lt/informaciniu-technologiju-ir-sistemu-centras/it-paslaugos-vgtu-bendruomenei/spausdinimo-paslauga/308096"]
+    }
+]
+}
