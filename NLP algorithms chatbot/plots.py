@@ -165,24 +165,24 @@ X, Y, decoder = normalize(data)
 vect = TfidfVectorizer(ngram_range=(1, 2))
 X = vect.fit_transform(X)
 
-# # KNN
+# KNN
 knn_clf = KNeighborsClassifier(n_neighbors=5).fit(X, Y)
-# learning_curves(knn_clf, 'Mokymosi kreivė (K arčiausių kaimynų)')
-# roc(knn_clf, title="ROC kreivė (K arčiausių kaimynų)")
+learning_curves(knn_clf, 'Mokymosi kreivė (K arčiausių kaimynų)')
+roc(knn_clf, title="ROC kreivė (K arčiausių kaimynų)")
 
-# # SVM
-svm_clf = svm.SVC(tol=1e-2, max_iter=100, kernel='poly', gamma='scale').fit(X, Y)
+# SVM
+svm_clf = svm.SVC(tol=1e-2, max_iter=100, kernel='linear').fit(X, Y)
 learning_curves(svm_clf, 'Mokymosi kreivė (Atraminių vektorių klasifikatorius)')
-# roc(svm_clf, title="ROC kreivė (Atraminių vekrotių mašina)")
+roc(svm_clf, title="ROC kreivė (Atraminių vekrotių mašina)")
 
-# # MLP
+# MLP
 mlp_clf = MLPClassifier(hidden_layer_sizes=(50,), activation='tanh', max_iter=50, alpha=0.01, tol=1e-9).fit(X, Y)
-# learning_curves(mlp_clf, 'Mokymosi kreivė (Daugiasluoksnis perceptronas)')
-# roc(mlp_clf, title="ROC kreivė (Daugiasluoksnis perceptronas)")
+learning_curves(mlp_clf, 'Mokymosi kreivė (Daugiasluoksnis perceptronas)')
+roc(mlp_clf, title="ROC kreivė (Daugiasluoksnis perceptronas)")
 
-# # NB
+# NB
 nb_clf = MultinomialNB(alpha=5, fit_prior=True).fit(X, Y)
-# learning_curves(nb_clf, 'Mokymosi kreivė (Naivusis Bajesas)')
-# roc(nb_clf, title="ROC kreivė (Naivusis Bajesas)")
+learning_curves(nb_clf, 'Mokymosi kreivė (Naivusis Bajesas)')
+roc(nb_clf, title="ROC kreivė (Naivusis Bajesas)")
 
-# # box_plots()
+# box_plots()

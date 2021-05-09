@@ -76,6 +76,9 @@
     },
     {"tag": "spausdinimo_kaina",
     "uzklausos": ["kiek kainuoja vieno lapo spausdinimas", "kokia nespalvoto spausdinimo kaina", "kokios yra spausdinimo kainos"]
+    },
+    {"tag": "kita",
+    "uzklausos": ["kokios stoteles prie vgtu", "kur rasti apklausas", "kur gauti informacija apie covid"]
     }
 ]
 }

@@ -76,6 +76,9 @@
     },
     {"tag": "spausdinimo_kaina",
     "uzklausos": ["kiek kainuoja rasto darbo spausdinimas", "kiek kainuoja spalvotas spausdinimas", "kaip sumoketi uz skausdinima"]
+    },
+    {"tag": "kita",
+    "uzklausos": ["kur galima pavalgyti vgtu universitete", "kokie yra priemimo i universiteta kriterijai", "kaip stoti magistrantura"]
     }
 ]
 }

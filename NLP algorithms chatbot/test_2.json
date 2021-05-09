@@ -76,6 +76,9 @@
     },
     {"tag": "spausdinimo_kaina",
     "uzklausos": ["kiek kainuoja spausdinimo paslaugos", "kiek kainuoja 5 puslapiu spausdinimas", "kokia a4 formato spausdinimo kaina"]
+    },
+    {"tag": "kita",
+    "uzklausos": ["kuo tu vardu", "kur rasti informacija apie studentu priemima", "ka zinai apie studentu vakcinacija"]
     }
 ]
 }

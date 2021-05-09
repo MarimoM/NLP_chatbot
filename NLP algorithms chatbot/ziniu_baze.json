@@ -103,9 +103,9 @@
     "uzklausos": ["kiek kainuoja darbo spausdinimas", "kiek kainuoja dokumento spausdinimas", "kiek kainuoja spausdinimo paslaugos", "kiek kainuoja rasto darbo spausdinimas", "kiek kainuoja vieno puslapio spausdinimas", "kiek kainuoja vieno lapo spausdinimas", "kiek kainuoja spalvotas spausdinimas", "kokia spalvoto spausdinimo kaina", "kokia nespalvoto spausdinimo kaina", "kiek kainuoja 5 puslapiu spausdinimas", "kiek kainuoja 10 spalvotu puslapiu spausdinimas", "kokios yra spausdinimo kainos", "kaip sumoketi uz skausdinima", "kokia a4 formato spausdinimo kaina", "kokia kaina a3 labo spausdinimo"],
     "atsakymas": ["Informaciją apie spausdinimą rasi čia: https://www.vgtu.lt/informaciniu-technologiju-ir-sistemu-centras/it-paslaugos-vgtu-bendruomenei/spausdinimo-paslauga/308096"]
     },
-    {"tag": "kitas",
+    {"tag": "kita",
     "uzklausos": [],
-    "atsakymas": ["Nesupratau"]
+    "atsakymas": ["Atsiprašau, nesupratau klasimo."]
     }
 ]
 }

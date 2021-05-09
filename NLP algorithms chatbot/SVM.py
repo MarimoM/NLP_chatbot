@@ -102,7 +102,7 @@ for intent in test_intents['intents']:
 
         actual = ""
         if (max_value <= ERROR_THRESHOLD):
-            actual = "nomatch"
+            actual = "kita"
 
         if not actual:
             for tg, sk in decoder:

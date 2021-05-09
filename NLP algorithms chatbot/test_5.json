@@ -76,6 +76,9 @@
     },
     {"tag": "spausdinimo_kaina",
     "uzklausos": ["kiek kainuoja darbo spausdinimas", "kiek kainuoja 10 spalvotu puslapiu spausdinimas", "kokia kaina a3 labo spausdinimo"]
+    },
+    {"tag": "kita",
+    "uzklausos": ["kur galima pavalgyti", "kokios tarptautines galimybes", "kur rasti informacija apie bendrabucius"]
     }
 ]
 }

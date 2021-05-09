@@ -76,6 +76,9 @@
     },
     {"tag": "spausdinimo_kaina",
     "uzklausos": ["kiek kainuoja dokumento spausdinimas", "kiek kainuoja vieno puslapio spausdinimas", "kokia spalvoto spausdinimo kaina"]
+    },
+    {"tag": "kita",
+    "uzklausos": ["kaip atrodo vgtu logotipas", "kur parsisiusti programine iranga", "kur yra biblioteka"]
     }
 ]
 }
